@@ -590,6 +590,11 @@ furnished to do so, subject to the following conditions:
 
 ---
 
+### ✨ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/open-coder&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/open-coder&type=date&legend=top-left)
+
+
 ## 💬 Community & Support
 
 -   **📚 [Documentation](https://docs.open-workflows.com):** Check out our official documentation for detailed guides and tutorials.
