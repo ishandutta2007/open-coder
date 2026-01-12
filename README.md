@@ -590,6 +590,14 @@ furnished to do so, subject to the following conditions:
 
 ---
 
+## 💖 Support & Sponsorship
+
+If you find this project helpful or if it has saved you time and resources, please consider sponsoring the development. Your support helps maintain the project, develop new features, and keep the initiative open-source.
+
+**[Sponsor @ishandutta2007 on GitHub](https://github.com/sponsors/ishandutta2007)**
+
+Every contribution, no matter how small, makes a huge difference!
+
 **Made with ❤️ by the open-source community, for the open-source community**
 
 [🏠 Back to Top](#-open-coder---ai-powered-coding-assistant)
